@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "8zdcplFYmzqVa6VRg9GgAMjMBg+TFkoc9xboQ/ESag6/uo5ZarF7hlkRFitD+C7GZpWrs51HtDbkeHxBkTvo1A==",
+  "success": true,
+  "projectFilePath": "/Users/enes/Documents/GitHub/FurnitureApiSln/Presentation/FurnitureApi.Api/FurnitureApi.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/enes/.nuget/packages/microsoft.aspnetcore.openapi/7.0.13/microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "/Users/enes/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/enes/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/enes/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/enes/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/enes/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/enes/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

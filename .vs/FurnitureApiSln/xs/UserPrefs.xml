@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{48B0ABA4-9E81-4B2A-9920-B7125CE1C47E}|http">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.ItemProperties.Infrastructure.FurnitureApi.Persistence FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Infrastructure.FurnitureApi.Infrastructure FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FurnitureApiSln" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Core.FurnitureApi.Application FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Presentation.FurnitureApi.Api FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Core.FurnitureApi.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+</Properties>
