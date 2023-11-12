@@ -1,7 +1,9 @@
-﻿<Properties StartupConfiguration="{48B0ABA4-9E81-4B2A-9920-B7125CE1C47E}|FurnitureApi.Development">
-  <MonoDevelop.Ide.ItemProperties.Core.FurnitureApi.Application FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Infrastructure.FurnitureApi.Persistence FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Infrastructure.FurnitureApi.Infrastructure FirstBuild="True" />
+﻿<Properties StartupConfiguration="{48B0ABA4-9E81-4B2A-9920-B7125CE1C47E}|FurnitureApi.Development" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.Presentation.FurnitureApi.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/FurnitureApi.Persistence/Registration.cs">
     <Files>
       <File FileName="Core/FurnitureApi.Domain/Entities/Category.cs" />
@@ -36,11 +38,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Presentation.FurnitureApi.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
 </Properties>
