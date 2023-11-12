@@ -1,0 +1,12 @@
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Application/bin/Debug/net7.0/FurnitureApi.Application.deps.json
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Application/bin/Debug/net7.0/FurnitureApi.Application.dll
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Application/bin/Debug/net7.0/FurnitureApi.Application.pdb
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Application/obj/Debug/net7.0/FurnitureApi.Application.csproj.AssemblyReference.cache
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Application/obj/Debug/net7.0/FurnitureApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Application/obj/Debug/net7.0/FurnitureApi.Application.AssemblyInfoInputs.cache
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Application/obj/Debug/net7.0/FurnitureApi.Application.AssemblyInfo.cs
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Application/obj/Debug/net7.0/FurnitureApi.Application.csproj.CoreCompileInputs.cache
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Application/obj/Debug/net7.0/FurnitureApi.Application.dll
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Application/obj/Debug/net7.0/refint/FurnitureApi.Application.dll
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Application/obj/Debug/net7.0/FurnitureApi.Application.pdb
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Application/obj/Debug/net7.0/ref/FurnitureApi.Application.dll

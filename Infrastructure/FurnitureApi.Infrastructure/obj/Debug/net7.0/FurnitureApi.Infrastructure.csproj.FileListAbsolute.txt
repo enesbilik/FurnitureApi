@@ -1,0 +1,12 @@
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Infrastructure/bin/Debug/net7.0/FurnitureApi.Infrastructure.deps.json
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Infrastructure/bin/Debug/net7.0/FurnitureApi.Infrastructure.dll
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Infrastructure/bin/Debug/net7.0/FurnitureApi.Infrastructure.pdb
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Infrastructure/obj/Debug/net7.0/FurnitureApi.Infrastructure.csproj.AssemblyReference.cache
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Infrastructure/obj/Debug/net7.0/FurnitureApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Infrastructure/obj/Debug/net7.0/FurnitureApi.Infrastructure.AssemblyInfoInputs.cache
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Infrastructure/obj/Debug/net7.0/FurnitureApi.Infrastructure.AssemblyInfo.cs
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Infrastructure/obj/Debug/net7.0/FurnitureApi.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Infrastructure/obj/Debug/net7.0/FurnitureApi.Infrastructure.dll
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Infrastructure/obj/Debug/net7.0/refint/FurnitureApi.Infrastructure.dll
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Infrastructure/obj/Debug/net7.0/FurnitureApi.Infrastructure.pdb
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Infrastructure/obj/Debug/net7.0/ref/FurnitureApi.Infrastructure.dll
