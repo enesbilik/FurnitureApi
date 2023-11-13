@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FurnitureApi.Domain/1.0.0": {
+        "runtime": {
+          "FurnitureApi.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FurnitureApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

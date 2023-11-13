@@ -1,0 +1,17 @@
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Mapper/bin/Debug/net7.0/FurnitureApi.Mapper.deps.json
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Mapper/bin/Debug/net7.0/FurnitureApi.Mapper.dll
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Mapper/bin/Debug/net7.0/FurnitureApi.Mapper.pdb
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Mapper/bin/Debug/net7.0/FurnitureApi.Application.dll
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Mapper/bin/Debug/net7.0/FurnitureApi.Domain.dll
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Mapper/bin/Debug/net7.0/FurnitureApi.Application.pdb
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Mapper/bin/Debug/net7.0/FurnitureApi.Domain.pdb
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Mapper/obj/Debug/net7.0/FurnitureApi.Mapper.csproj.AssemblyReference.cache
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Mapper/obj/Debug/net7.0/FurnitureApi.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Mapper/obj/Debug/net7.0/FurnitureApi.Mapper.AssemblyInfoInputs.cache
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Mapper/obj/Debug/net7.0/FurnitureApi.Mapper.AssemblyInfo.cs
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Mapper/obj/Debug/net7.0/FurnitureApi.Mapper.csproj.CoreCompileInputs.cache
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Mapper/obj/Debug/net7.0/FurnitureApi.Mapper.csproj.CopyComplete
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Mapper/obj/Debug/net7.0/FurnitureApi.Mapper.dll
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Mapper/obj/Debug/net7.0/refint/FurnitureApi.Mapper.dll
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Mapper/obj/Debug/net7.0/FurnitureApi.Mapper.pdb
+/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Mapper/obj/Debug/net7.0/ref/FurnitureApi.Mapper.dll

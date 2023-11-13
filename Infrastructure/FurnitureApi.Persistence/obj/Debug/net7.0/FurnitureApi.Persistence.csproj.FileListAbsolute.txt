@@ -1,0 +1,17 @@
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Persistence/bin/Debug/net7.0/FurnitureApi.Persistence.deps.json
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Persistence/bin/Debug/net7.0/FurnitureApi.Persistence.dll
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Persistence/bin/Debug/net7.0/FurnitureApi.Persistence.pdb
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Persistence/bin/Debug/net7.0/FurnitureApi.Application.dll
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Persistence/bin/Debug/net7.0/FurnitureApi.Domain.dll
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Persistence/bin/Debug/net7.0/FurnitureApi.Domain.pdb
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Persistence/bin/Debug/net7.0/FurnitureApi.Application.pdb
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Persistence/obj/Debug/net7.0/FurnitureApi.Persistence.csproj.AssemblyReference.cache
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Persistence/obj/Debug/net7.0/FurnitureApi.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Persistence/obj/Debug/net7.0/FurnitureApi.Persistence.AssemblyInfoInputs.cache
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Persistence/obj/Debug/net7.0/FurnitureApi.Persistence.AssemblyInfo.cs
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Persistence/obj/Debug/net7.0/FurnitureApi.Persistence.csproj.CoreCompileInputs.cache
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Persistence/obj/Debug/net7.0/FurnitureApi.Persistence.csproj.CopyComplete
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Persistence/obj/Debug/net7.0/FurnitureApi.Persistence.dll
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Persistence/obj/Debug/net7.0/refint/FurnitureApi.Persistence.dll
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Persistence/obj/Debug/net7.0/FurnitureApi.Persistence.pdb
+/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Persistence/obj/Debug/net7.0/ref/FurnitureApi.Persistence.dll

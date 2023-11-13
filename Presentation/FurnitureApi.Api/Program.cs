@@ -1,4 +1,8 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+﻿using FurnitureApi.Persistence;
+using FurnitureApi.Application;
+using FurnitureApi.Mapper;
+
+var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
@@ -14,6 +18,13 @@ builder.Configuration
     .SetBasePath(env.ContentRootPath)
     .AddJsonFile("appsettings.json", optional: false)
     .AddJsonFile($"appsettings.{env.EnvironmentName}.json", optional: true);
+
+
+
+builder.Services.AddPersistence(builder.Configuration);
+builder.Services.AddApplication();
+builder.Services.AddCustomMapper();
+
 
 var app = builder.Build();
 

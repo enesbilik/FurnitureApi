@@ -1,25 +1,35 @@
-﻿<Properties StartupConfiguration="{48B0ABA4-9E81-4B2A-9920-B7125CE1C47E}|http">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Infrastructure.FurnitureApi.Persistence FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Infrastructure.FurnitureApi.Infrastructure FirstBuild="True" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Presentation/FurnitureApi.Api/Program.cs">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{48B0ABA4-9E81-4B2A-9920-B7125CE1C47E}|FurnitureApi.Development">
+  <MonoDevelop.Ide.ItemProperties.Presentation.FurnitureApi.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/FurnitureApi.Persistence/Registration.cs">
     <Files>
-      <File FileName="Core/FurnitureApi.Application/Class1.cs" Line="1" Column="1" />
-      <File FileName="Core/FurnitureApi.Domain/Class1.cs" Line="1" Column="1" />
-      <File FileName="Infrastructure/FurnitureApi.Infrastructure/Class1.cs" Line="1" Column="1" />
-      <File FileName="Infrastructure/FurnitureApi.Infrastructure/FurnitureApi.Persistence/Class1.cs" Line="1" Column="1" />
-      <File FileName="Presentation/FurnitureApi.Api/Program.cs" Line="23" Column="1" />
+      <File FileName="Infrastructure/FurnitureApi.Persistence/Repositories/WriteRepository.cs" Line="22" Column="42" />
+      <File FileName="Core/FurnitureApi.Application/Interfaces/Repositories/IWriteRepository.cs" Line="16" Column="1" />
+      <File FileName="Infrastructure/FurnitureApi.Persistence/Registration.cs" Line="24" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FurnitureApiSln">
-            <Node name="Core" expanded="True" />
-            <Node name="Infrastructure" expanded="True" />
-            <Node name="Presentation" expanded="True">
+            <Node name="Core" expanded="True">
+              <Node name="FurnitureApi.Application" expanded="True">
+                <Node name="Interfaces" expanded="True">
+                  <Node name="Repositories" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="FurnitureApi.Domain" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="FurnitureApi.Infrastructure" expanded="True" />
+              <Node name="FurnitureApi.Persistence" expanded="True">
+                <Node name="Repositories" expanded="True" />
+                <Node name="Registration.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Presentation">
               <Node name="FurnitureApi.Api">
-                <Node name="Program.cs" selected="True" />
+                <Node name="Dependencies" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -27,11 +37,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Core.FurnitureApi.Application FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Presentation.FurnitureApi.Api FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.Core.FurnitureApi.Domain FirstBuild="True" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.Core.FurnitureApi.Mapper FirstBuild="True" />
 </Properties>
