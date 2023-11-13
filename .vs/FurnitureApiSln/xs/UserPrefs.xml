@@ -1,36 +1,35 @@
-﻿<Properties StartupConfiguration="{48B0ABA4-9E81-4B2A-9920-B7125CE1C47E}|FurnitureApi.Development" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{48B0ABA4-9E81-4B2A-9920-B7125CE1C47E}|FurnitureApi.Development">
   <MonoDevelop.Ide.ItemProperties.Presentation.FurnitureApi.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/FurnitureApi.Persistence/Registration.cs">
     <Files>
-      <File FileName="Core/FurnitureApi.Domain/Entities/Category.cs" />
-      <File FileName="Core/FurnitureApi.Domain/Entities/Product.cs" />
-      <File FileName="Presentation/FurnitureApi.Api/Program.cs" Line="30" Column="24" />
-      <File FileName="Core/FurnitureApi.Domain/Common/EntityBase.cs" />
-      <File FileName="Infrastructure/FurnitureApi.Persistence/Context/AppDbContext.cs" Line="25" Column="25" />
-      <File FileName="Infrastructure/FurnitureApi.Persistence/Configurations/ProductConfiguration.cs" Line="1" Column="1" />
-      <File FileName="Infrastructure/FurnitureApi.Persistence/Registration.cs" Line="23" Column="1" />
-      <File FileName="Infrastructure/FurnitureApi.Persistence/Registration2.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/FurnitureApi.Persistence/Repositories/WriteRepository.cs" Line="22" Column="42" />
+      <File FileName="Core/FurnitureApi.Application/Interfaces/Repositories/IWriteRepository.cs" Line="16" Column="1" />
+      <File FileName="Infrastructure/FurnitureApi.Persistence/Registration.cs" Line="24" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FurnitureApiSln" expanded="True">
+          <Node name="FurnitureApiSln">
             <Node name="Core" expanded="True">
+              <Node name="FurnitureApi.Application" expanded="True">
+                <Node name="Interfaces" expanded="True">
+                  <Node name="Repositories" expanded="True" />
+                </Node>
+              </Node>
               <Node name="FurnitureApi.Domain" expanded="True">
                 <Node name="Entities" expanded="True" />
               </Node>
             </Node>
             <Node name="Infrastructure" expanded="True">
               <Node name="FurnitureApi.Infrastructure" expanded="True" />
-              <Node name="FurnitureApi.Persistence" expanded="True" />
+              <Node name="FurnitureApi.Persistence" expanded="True">
+                <Node name="Repositories" expanded="True" />
+                <Node name="Registration.cs" selected="True" />
+              </Node>
             </Node>
             <Node name="Presentation">
               <Node name="FurnitureApi.Api">
-                <Node name="appsettings.json" expanded="True" />
+                <Node name="Dependencies" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -38,4 +37,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.Core.FurnitureApi.Mapper FirstBuild="True" />
 </Properties>

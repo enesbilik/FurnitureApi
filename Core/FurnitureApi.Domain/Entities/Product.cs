@@ -22,11 +22,11 @@ namespace FurnitureApi.Domain.Entities
             Rating = rating;
         }
 
-        public required string Title { get; set; }
-        public required string Description { get; set; }
-        // public required string ImagePath{ get; set; 
-        public required double Price { get; set; }
-        public required double Rating { get; set; }
+        public string Title { get; set; }
+        public string Description { get; set; }
+        // public  string ImagePath{ get; set; 
+        public double Price { get; set; }
+        public double Rating { get; set; }
         public Category Category { get; set; }
         public int CategoryId { get; set; }
     }

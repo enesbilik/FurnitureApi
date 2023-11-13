@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/L4CTuejjseP+wjyUvVSRd8vaA7Te2DbJWMee6hNv08IKJ+22lJv/ET9ELA4e9QJL/LzVxdW9SPdgu3rIfFA6A==",
+  "dgSpecHash": "FvAktqR2RfPiAGz/yUly//2Fto+gwIUHz+Z8uehFtf4hpwp40w6iO8FQLmXZ/R65UAOEVdG0LUDS+cikk6ogjg==",
   "success": true,
   "projectFilePath": "/Users/enes/Documents/GitHub/FurnitureApiSln/Infrastructure/FurnitureApi.Persistence/FurnitureApi.Persistence.csproj",
   "expectedPackageFiles": [
     "/Users/enes/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/enes/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
+    "/Users/enes/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/Users/enes/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/enes/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/enes/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/enes/.nuget/packages/microsoft.data.sqlclient/5.1.1/microsoft.data.sqlclient.5.1.1.nupkg.sha512",

@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FurnitureApi.Infrastructure
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FurnitureApi.Persistence", "Infrastructure\FurnitureApi.Persistence\FurnitureApi.Persistence.csproj", "{008C44A8-23D2-4BE9-954A-DC6E6ED0D4C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FurnitureApi.Mapper", "Core\FurnitureApi.Mapper\FurnitureApi.Mapper.csproj", "{D0114A89-D908-449F-9DA0-B94411F7E86F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{008C44A8-23D2-4BE9-954A-DC6E6ED0D4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{008C44A8-23D2-4BE9-954A-DC6E6ED0D4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{008C44A8-23D2-4BE9-954A-DC6E6ED0D4C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0114A89-D908-449F-9DA0-B94411F7E86F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0114A89-D908-449F-9DA0-B94411F7E86F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0114A89-D908-449F-9DA0-B94411F7E86F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0114A89-D908-449F-9DA0-B94411F7E86F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,5 +64,6 @@ Global
 		{48B0ABA4-9E81-4B2A-9920-B7125CE1C47E} = {6550F11F-9C05-46E6-A06F-1095C5DDE681}
 		{1C079765-F2AE-4B17-9F82-A7E46FDF80A6} = {A3955F6A-7730-4BBB-8D23-48289F88CBCF}
 		{008C44A8-23D2-4BE9-954A-DC6E6ED0D4C6} = {A3955F6A-7730-4BBB-8D23-48289F88CBCF}
+		{D0114A89-D908-449F-9DA0-B94411F7E86F} = {32F72FCD-7F84-48BB-B84B-1C8630FE1F2C}
 	EndGlobalSection
 EndGlobal
