@@ -14,19 +14,20 @@ namespace FurnitureApi.Domain.Entities
             string title,
             string description,
             double price,
-            double rating)
+            int categoryId
+            )
         {
             Title = title;
             Description = description;
             Price = price;
-            Rating = rating;
+            CategoryId = categoryId;
         }
 
         public string Title { get; set; }
         public string Description { get; set; }
         // public  string ImagePath{ get; set; 
         public double Price { get; set; }
-        public double Rating { get; set; }
+        public double Rating { get; set; } = 3;
         public Category Category { get; set; }
         public int CategoryId { get; set; }
     }
