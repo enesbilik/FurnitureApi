@@ -17,6 +17,9 @@
     <None Remove="Features\Products\Queries\GetAllProducts\" />
     <None Remove="Interfaces\AutoMapper\" />
     <None Remove="DTOs\" />
+    <None Remove="Features\Products\Command\CreateProduct\" />
+    <None Remove="Features\Products\Command\UpdateProduct\" />
+    <None Remove="Features\Products\Command\DeleteProduct\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Interfaces\" />
@@ -29,6 +32,9 @@
     <Folder Include="Features\Products\Queries\GetAllProducts\" />
     <Folder Include="Interfaces\AutoMapper\" />
     <Folder Include="DTOs\" />
+    <Folder Include="Features\Products\Command\CreateProduct\" />
+    <Folder Include="Features\Products\Command\UpdateProduct\" />
+    <Folder Include="Features\Products\Command\DeleteProduct\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\FurnitureApi.Domain\FurnitureApi.Domain.csproj" />

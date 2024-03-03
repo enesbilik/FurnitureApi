@@ -1,35 +1,56 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{48B0ABA4-9E81-4B2A-9920-B7125CE1C47E}|FurnitureApi.Development">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Application/Features/Products/Command/UpdateProduct/UpdateProductCommandHandler.cs" relfile="Core/FurnitureApi.Application/Features/Products/Command/UpdateProduct/UpdateProductCommandHandler.cs" line="21" column="1" />
+      <Breakpoint file="/Users/enes/Documents/GitHub/FurnitureApiSln/Core/FurnitureApi.Application/Features/Products/Command/DeleteProduct/DeleteProductCommandHandler.cs" relfile="Core/FurnitureApi.Application/Features/Products/Command/DeleteProduct/DeleteProductCommandHandler.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Presentation.FurnitureApi.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/FurnitureApi.Persistence/Registration.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Presentation/FurnitureApi.Api/appsettings.Development.json">
     <Files>
-      <File FileName="Infrastructure/FurnitureApi.Persistence/Repositories/WriteRepository.cs" Line="22" Column="42" />
-      <File FileName="Core/FurnitureApi.Application/Interfaces/Repositories/IWriteRepository.cs" Line="16" Column="1" />
-      <File FileName="Infrastructure/FurnitureApi.Persistence/Registration.cs" Line="24" Column="1" />
+      <File FileName="Core/FurnitureApi.Application/DTOs/CategoryDto.cs" />
+      <File FileName="Core/FurnitureApi.Application/Features/Products/Command/CreateProduct/CreateProductCommandRequest.cs" />
+      <File FileName="Core/FurnitureApi.Application/Features/Products/Command/UpdateProduct/UpdateProductCommandHandler.cs" />
+      <File FileName="Core/FurnitureApi.Domain/Entities/Product.cs" />
+      <File FileName="Core/FurnitureApi.Application/Features/Products/Command/DeleteProduct/DeleteProductCommandHandler.cs" />
+      <File FileName="Presentation/FurnitureApi.Api/Controllers/ProductController.cs" />
+      <File FileName="Infrastructure/FurnitureApi.Persistence/Repositories/WriteRepository.cs" />
+      <File FileName="Infrastructure/FurnitureApi.Persistence/UnitOfWorks/UnitOfWork.cs" Line="17" Column="1" />
+      <File FileName="Infrastructure/FurnitureApi.Persistence/Registration.cs" Line="29" Column="1" />
+      <File FileName="Presentation/FurnitureApi.Api/appsettings.json" Line="1" Column="1" />
+      <File FileName="Presentation/FurnitureApi.Api/appsettings.Development.json" Line="3" Column="169" />
+      <File FileName="Presentation/FurnitureApi.Api/appsettings.Production.json" Line="3" Column="1" />
+      <File FileName="Presentation/FurnitureApi.Api/bin/Debug/net7.0/appsettings.Production.json" Line="3" Column="1" />
+      <File FileName="Presentation/FurnitureApi.Api/bin/Debug/net7.0/appsettings.Development.json" Line="3" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FurnitureApiSln">
+          <Node name="FurnitureApiSln" expanded="True">
             <Node name="Core" expanded="True">
               <Node name="FurnitureApi.Application" expanded="True">
-                <Node name="Interfaces" expanded="True">
-                  <Node name="Repositories" expanded="True" />
-                </Node>
+                <Node name="DTOs" expanded="True" />
               </Node>
-              <Node name="FurnitureApi.Domain" expanded="True">
-                <Node name="Entities" expanded="True" />
+              <Node name="FurnitureApi.Mapper" expanded="True">
+                <Node name="AutoMapper" expanded="True" />
               </Node>
             </Node>
             <Node name="Infrastructure" expanded="True">
               <Node name="FurnitureApi.Infrastructure" expanded="True" />
               <Node name="FurnitureApi.Persistence" expanded="True">
+                <Node name="Configurations" expanded="True" />
                 <Node name="Repositories" expanded="True" />
-                <Node name="Registration.cs" selected="True" />
+                <Node name="UnitOfWorks" expanded="True" />
               </Node>
             </Node>
             <Node name="Presentation">
-              <Node name="FurnitureApi.Api">
-                <Node name="Dependencies" expanded="True" />
+              <Node name="FurnitureApi.Api" expanded="True">
+                <Node name="appsettings.json" expanded="True">
+                  <Node name="appsettings.Development.json" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -37,9 +58,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.Core.FurnitureApi.Mapper FirstBuild="True" />
 </Properties>
